@@ -19,7 +19,7 @@
 
 ### Buy -- what you'll need
 
-![capecod.jpg](https://github.com/zcarwile/sup_intro/blob/master/capecod.jpg "Cape Cod / PTown")
+![capecod.JPG](https://github.com/zcarwile/sup_intro/blob/master/capecod.JPG "Cape Cod / PTown")
 
 #### SUP
   - Rigid vs. Inflatable SUP
