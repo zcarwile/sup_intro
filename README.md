@@ -13,25 +13,27 @@ Benefits
 Getting started
 
 Rent
-Buy -- what you'll need
-- SUP
+## Buy -- what you'll need
+### SUP
   - rigid vs iSUP
   - touring vs performance
-- Paddle
+### Paddle
   - aluminum or carbon
   - fixed or collapsible
-- Life jacket
+### Life jacket
   - style
   - size / flotation
-- Leash
+### Leash
   - Fixed or coil
+### Nice-to-haves
 
-Safety
+## Safety
 - launch
 - current / wind
 - sunburn
 - hydration / nutrition
 
-Cost Analysis
+## Cost Analysis
 
-Class / where to rent
+## Where to go
+![where_to_go.png](https://github.com/zcarwile/sup_intro/blob/master/where_to_go.png "NYC SUP Locations")
