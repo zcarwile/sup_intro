@@ -1,16 +1,17 @@
 ## Introduction to Stand-Up Paddleboarding
 
-![kotao.jpg](https://github.com/zcarwile/sup_intro/blob/master/kotao.JPG "Ko Tao Paddleboard")
-![bartonsprings.jpg](https://github.com/zcarwile/sup_intro/blob/master/bartonsprings.JPG "Barton Springs, ATX")
+![montage.PNG](https://github.com/zcarwile/sup_intro/blob/master/montage.PNG "SUP Montage")
+[//]: # (![kotao.jpg](https://github.com/zcarwile/sup_intro/blob/master/kotao.JPG "Ko Tao Paddleboard"))
+[//]: # (![bartonsprings.jpg](https://github.com/zcarwile/sup_intro/blob/master/bartonsprings.JPG "Barton Springs, ATX"))
 
 ### Muse
 - photos / story
 
 ### Benefits
 
-- Fitness... especially on vacation!
-- Views
-- Relaxation
+- *Fitness*... especially on vacation!
+- *Views*... fresh perspective on a familiar place
+- *Relaxation*... near people, but also away from people
 
 ### Getting started
 
@@ -28,8 +29,8 @@
   - Aluminum or Carbon Fiber
   - Fixed or 2-/3-piece
 #### Life jacket
-  - style
-  - size / flotation
+  - Style
+  - Size / flotation
 #### Leash
   - Fixed or coil
 #### Nice-to-haves
@@ -41,19 +42,19 @@
 
 ![hudson.jpg](https://github.com/zcarwile/sup_intro/blob/master/hudson.JPG "Intrepid")
 
-- launch
-- current / wind
-- sunburn
-- hydration / nutrition
-- waterways
+- Launch
+- Current / wind
+- Sunburn
+- Hydration / nutrition
+- Waterways
 
 ### Cost Analysis
 
-- board: $1375
-- paddle: $275
-- life jacket: $100
-- leash: $25
-- dry bag: $25
+- Board: $1375
+- Paddle: $275
+- Life jacket: $100
+- Leash: $25
+- Dry bag: $25
 - Total: $1,800
 - Satisfaction: *priceless*
 
