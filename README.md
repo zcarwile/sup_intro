@@ -17,16 +17,16 @@
 
 ![capecod.JPG](https://github.com/zcarwile/sup_intro/blob/master/capecod.JPG "Cape Cod / PTown")
 
-#### SUP [1](https://redpaddleco.com/inflatable-sups/)
+#### SUP [[1]](https://redpaddleco.com/inflatable-sups/)
   - Rigid vs. Inflatable SUP
   - Touring vs. Sport
-#### Paddle [2](http://wernerpaddles.com/paddles/stand-up/flow-95)
+#### Paddle [[2]](http://wernerpaddles.com/paddles/stand-up/flow-95)
   - Aluminum or Carbon Fiber
   - Fixed or 2-/3-piece
-#### Life jacket [3](https://www.amazon.com/Onyx-Manual-Inflatable-Jacket-Black/dp/B0032ALK72)
+#### Life jacket [[3]](https://www.amazon.com/Onyx-Manual-Inflatable-Jacket-Black/dp/B0032ALK72)
   - Style
   - Size / flotation
-#### Leash [4](https://www.dakine.com/en-us/sale/sale-sport/surf/leashes/sup-10-x-5-16-coil-ankle/)
+#### Leash [[4]](https://www.dakine.com/en-us/sale/sale-sport/surf/leashes/sup-10-x-5-16-coil-ankle/)
   - Fixed or coil
 #### Nice-to-haves
   - Dry bag
