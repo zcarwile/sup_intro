@@ -2,9 +2,6 @@
 
 ![montage.png](https://github.com/zcarwile/sup_intro/blob/master/montage.png "SUP Montage")
 
-### Muse
-- photos / story
-
 ### Benefits
 
 - *Fitness*... especially on vacation!
