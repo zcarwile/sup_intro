@@ -1,8 +1,6 @@
 ## Introduction to Stand-Up Paddleboarding
 
-![montage.PNG](https://github.com/zcarwile/sup_intro/blob/master/montage.PNG "SUP Montage")
-[//]: # (![kotao.jpg](https://github.com/zcarwile/sup_intro/blob/master/kotao.JPG "Ko Tao Paddleboard"))
-[//]: # (![bartonsprings.jpg](https://github.com/zcarwile/sup_intro/blob/master/bartonsprings.JPG "Barton Springs, ATX"))
+![montage.png](https://github.com/zcarwile/sup_intro/blob/master/montage.png "SUP Montage")
 
 ### Muse
 - photos / story
